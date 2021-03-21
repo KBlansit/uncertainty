@@ -1,0 +1,7 @@
+data/
+output/
+model/
+
+*.pyc
+*.dcm
+*.png
